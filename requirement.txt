@@ -1,2 +1,5 @@
-speechrecogniton
+SpeechRecognition
 pyttsx3
+pyaudio
+google-cloud-speech
+pocketsphinx
