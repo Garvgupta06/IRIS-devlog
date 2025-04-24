@@ -1,7 +1,7 @@
 
 ##jarvis mini - my personal AI assistant  
 
-a personal mini project to build a powered voice assistant in Python.
+A personal mini project to build a powered voice assistant in Python.
 Inspired by Jarvis from the Iron man movies but built by scratch from me.
 
 ---
