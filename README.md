@@ -1,14 +1,14 @@
 
-##jarvis mini - my personal AI assistant  
+## IRIS mini - my personal AI assistant  
 
 A personal mini project to build a powered voice assistant in Python.
-Inspired by Jarvis from the Iron man movies but built by scratch from me.
+Inspired by IRIS from the Iron man movies but built by scratch from me.
 
 ---
 
 Why am i building this?
-JARVIS is not just a random coding project 
-i am developing it to-
+IRIS is not just a random coding project 
+I am developing it to-
 - develop my coding skills
 - help me explore TTS and STT modules
 - Learn how to build something from scratch
@@ -19,21 +19,21 @@ i am developing it to-
 
 ## Features i am working on in this mini project:
 
-||status|features||
+  ||status|features||
 --------------------
-|| ⬜  | Takes voice command using 'SPEECH RECOGNITION'
-|| ⬜  | Text to speech using 'pytts3x' 
-|| ⬜  | basic commands handling (such as time, date, apps, websites, searches)
-|| ⬜  | Modular Command system
-|| ⬜  | API integration (news,weather,wiki,etc)
-|| ⬜  | simple learning system (learns user preferences)
-|| ⬜  | GUI interface (future optional)
+- || ⬜  | Takes voice command using 'SPEECH RECOGNITION'  
+- || ⬜  | Text to speech using 'pytts3x' 
+- || ⬜  | basic commands handling (such as time, date, apps, websites, searches) 
+- || ⬜  | Modular Command system 
+- || ⬜  | API integration (news,weather,wiki,etc) 
+- || ⬜  | simple learning system (learns user preferences)  
+- || ⬜  | GUI interface (future optional)
 
 ---
 
 ## project structure
 '''bash 
-jarvis-mini/
+IRIS-mini/
  |--- main.py                                       # core code 
  |--- requirments.txt                               # all the python dependencies
  |---  README.md                                    # to log all changes and features
